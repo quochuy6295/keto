@@ -17,7 +17,7 @@
 
 # Visual Studio Code related
 .vscode/
-
+sssssssssssssssss
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
@@ -26,7 +26,7 @@
 .pub-cache/
 .pub/
 /build/
-
+sssssssssssssssssssssss
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
